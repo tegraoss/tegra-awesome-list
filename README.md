@@ -3,7 +3,7 @@
 
 ## Contents
 
-- [Design](#platforms)
+- [Design](#design)
 
 
 ### Design
