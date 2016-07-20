@@ -1,11 +1,11 @@
-# tegra-awesome-list
+# Tegra Awesome List
 
 
-# Contents
+## Contents
 
 - [Design](#platforms)
 
 
-## Design
+### Design
 
 - [PracticalTypography](http://practicaltypography.com/)
