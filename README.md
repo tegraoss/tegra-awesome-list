@@ -9,6 +9,7 @@
 
 ### Design
 
+- [Ceberus Mail Template](https://github.com/TedGoas/Cerberus)
 - [Design Machines](https://louderthanten.com/coax/design-machines)
 - [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black)
 - [PracticalTypography](http://practicaltypography.com/)
@@ -16,3 +17,4 @@
 ### Development
 
 - [Apiary](https://apiary.io/)
+- [TestFairy](https://testfairy.com/)
